@@ -1,0 +1,3 @@
+git init : khởi tạo
+git remote
+git add .
